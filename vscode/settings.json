@@ -1,0 +1,22 @@
+{
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atom One Dark",
+    "redhat.telemetry.enabled": false,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "phase",
+    "workbench.list.smoothScrolling": true,
+    "codestream.email": "",
+    "window.zoomLevel": 1,
+    "files.associations": {
+        "*.nomad": "hcl"
+    },
+    "diffEditor.ignoreTrimWhitespace": false
+}
