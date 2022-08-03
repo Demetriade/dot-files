@@ -13,4 +13,4 @@
     res = !git reset --hard
     cm = commit -m
     a = add -v
-    cln = git branch | grep -v "master" | xargs git branch -D 
+    cln = branch | grep -v "master" | xargs git branch -D 
