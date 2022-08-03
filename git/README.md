@@ -2,5 +2,5 @@
 
 ## File location
 ```bash
-~.gitconfig
+~/.gitconfig
 ```
